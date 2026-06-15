@@ -2,17 +2,19 @@
 apiVersion: argoproj.io/v1alpha1
 kind: Application
 metadata:
-  name: root-headlamp
+  name: headlamp
   namespace: argocd
 spec:
   project: default
   source:
-    repoURL: 'https://github.com/<USER_CỦA_BẠN>/<REPO_CỦA_BẠN>.git'
-    targetRevision: HEAD # Hoặc 'main'
-    path: . # Đường dẫn đến thư mục chứa file headlamp-app.yaml
+    repoURL: 'https://github.com/Thang2005HCMUS/Headlamp.git' # Repo của bạn
+    targetRevision: main
+    path: k8s # Trỏ vào folder k8s
   destination:
-    server: 'https://kubernetes.default.svc'
-    namespace: argocd
+    server: https://kubernetes.default.svc
+    namespace: kube-system
   syncPolicy:
-    automated: {}
+    automated:
+      prune: true
+      selfHeal: true
 ```
