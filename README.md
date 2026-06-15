@@ -12,7 +12,7 @@ spec:
     path: k8s # Trỏ vào folder k8s
   destination:
     server: https://kubernetes.default.svc
-    namespace: kube-system
+    namespace: headlamp-app
   syncPolicy:
     automated:
       prune: true
