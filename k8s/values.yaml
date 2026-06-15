@@ -2,6 +2,7 @@ headlamp:
   # LƯU Ý 1: Hai dòng này cực kỳ quan trọng để Headlamp không hỏi Token nữa
   extraArgs:
     - "-in-cluster"
+  automountServiceAccountToken: true
   clusterRoleBinding:
     create: true
 
