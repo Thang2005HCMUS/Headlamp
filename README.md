@@ -18,3 +18,6 @@ spec:
       prune: true
       selfHeal: true
 ```
+```
+kubectl create token default -n kube-system
+```

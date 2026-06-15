@@ -10,11 +10,6 @@ headlamp:
   ingress:
     enabled: true
     ingressClassName: nginx
-    annotations:
-      kubernetes.io/ingress.class: nginx
-      nginx.ingress.kubernetes.io/auth-type: basic
-      nginx.ingress.kubernetes.io/auth-secret: headlamp-basic-auth
-      nginx.ingress.kubernetes.io/auth-realm: "Headlamp Secure v3"
     hosts:
       - host: k8s.dashboard.com
         paths:
