@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: 'https://headlamp-k8s.github.io/headlamp' # URL Helm chart chính thức của Headlamp
+    repoURL: 'https://kubernetes-sigs.github.io/headlamp/' # URL Helm chart chính thức của Headlamp
     chart: headlamp
     targetRevision: 0.25.0 # Thay bằng phiên bản bạn muốn cài đặt
     helm:
