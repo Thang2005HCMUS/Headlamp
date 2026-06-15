@@ -8,5 +8,5 @@ headlamp:
       - host: k8s.dashboard.com
         paths:
           - path: /
-            pathType: ImplementationSpecific
+            type: ImplementationSpecific # Một số chart cũ dùng key là 'type' thay vì 'pathType'
     tls: []
