@@ -18,5 +18,5 @@ headlamp:
       - host: k8s.dashboard.com
         paths:
           - path: /
-            pathType: ImplementationSpecific
+            path: ImplementationSpecific
     tls: []
