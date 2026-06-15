@@ -1,10 +1,10 @@
 apiVersion: v2
-name: app-dev
-description: A Helm chart for deploying microservices in the development environment
+name: my-headlamp-app
+description: Headlamp deployment via GitOps
 type: application
-
-# Đây là phiên bản của chính cái Chart Helm này (tăng tiến khi bạn thay đổi cấu trúc template)
 version: 1.0.0
-
-# Đây là phiên bản của ứng dụng tổng (App Version)
-appVersion: "1.0.0"
+appVersion: "0.27.0"
+dependencies:
+  - name: headlamp
+    version: 0.27.0
+    repository: https://kubernetes-sigs.github.io/headlamp/
