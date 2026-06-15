@@ -1,0 +1,4 @@
+headlamp:
+  # Các cấu hình của headlamp viết ở đây, ví dụ:
+  ingress:
+    enabled: true
