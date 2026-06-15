@@ -1,0 +1,1957 @@
+apiVersion: v1
+entries:
+  headlamp:
+  - annotations:
+      artifacthub.io/category: monitoring-logging
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/screenshots: |
+        - title: Cluster Overview
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/cluster_overview.png
+        - title: Cluster Chooser
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/cluster_chooser.png
+        - title: Nodes
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/nodes.png
+        - title: Resource edition
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/resource_edition.png
+        - title: Editor Documentation
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/editor_documentation.png
+        - title: Terminal
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/terminal.png
+      artifacthub.io/signKey: |
+        fingerprint: 2956B7F7167769370C93730C7264DA7B85D08A37
+        url: https://keys.openpgp.org/vks/v1/by-fingerprint/2956B7F7167769370C93730C7264DA7B85D08A37
+    apiVersion: v2
+    appVersion: 0.42.0
+    created: "2026-05-07T13:06:56.231661373Z"
+    description: Headlamp is an easy-to-use and extensible Kubernetes web UI.
+    digest: 1014bc96c7696000645d29bb70336d863d951b2b130683220db1973438b76c40
+    home: https://headlamp.dev/
+    icon: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/main/docs/headlamp_light.svg
+    keywords:
+    - kubernetes
+    - plugins
+    - kinvolk
+    - headlamp
+    - dashboard
+    - ui
+    - web
+    - monitoring
+    - logging
+    maintainers:
+    - name: kinvolk
+      url: https://kinvolk.io/
+    name: headlamp
+    sources:
+    - https://github.com/kubernetes-sigs/headlamp/tree/main/charts/headlamp
+    - https://github.com/kubernetes-sigs/headlamp
+    type: application
+    urls:
+    - https://github.com/kubernetes-sigs/headlamp/releases/download/headlamp-helm-0.42.0/headlamp-0.42.0.tgz
+    version: 0.42.0
+  - annotations:
+      artifacthub.io/category: monitoring-logging
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/screenshots: |
+        - title: Cluster Overview
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/cluster_overview.png
+        - title: Cluster Chooser
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/cluster_chooser.png
+        - title: Nodes
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/nodes.png
+        - title: Resource edition
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/resource_edition.png
+        - title: Editor Documentation
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/editor_documentation.png
+        - title: Terminal
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/terminal.png
+      artifacthub.io/signKey: |
+        fingerprint: 2956B7F7167769370C93730C7264DA7B85D08A37
+        url: https://keys.openpgp.org/vks/v1/by-fingerprint/2956B7F7167769370C93730C7264DA7B85D08A37
+    apiVersion: v2
+    appVersion: 0.41.0
+    created: "2026-03-26T06:19:42.901799705Z"
+    description: Headlamp is an easy-to-use and extensible Kubernetes web UI.
+    digest: 0253dadfa8b2767379526743327094a0eb40f1069d41c583e5a51812e5c523e3
+    home: https://headlamp.dev/
+    icon: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/main/docs/headlamp_light.svg
+    keywords:
+    - kubernetes
+    - plugins
+    - kinvolk
+    - headlamp
+    - dashboard
+    - ui
+    - web
+    - monitoring
+    - logging
+    maintainers:
+    - name: kinvolk
+      url: https://kinvolk.io/
+    name: headlamp
+    sources:
+    - https://github.com/kubernetes-sigs/headlamp/tree/main/charts/headlamp
+    - https://github.com/kubernetes-sigs/headlamp
+    type: application
+    urls:
+    - https://github.com/kubernetes-sigs/headlamp/releases/download/headlamp-helm-0.41.0/headlamp-0.41.0.tgz
+    version: 0.41.0
+  - annotations:
+      artifacthub.io/category: monitoring-logging
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/screenshots: |
+        - title: Cluster Overview
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/cluster_overview.png
+        - title: Cluster Chooser
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/cluster_chooser.png
+        - title: Nodes
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/nodes.png
+        - title: Resource edition
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/resource_edition.png
+        - title: Editor Documentation
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/editor_documentation.png
+        - title: Terminal
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/terminal.png
+      artifacthub.io/signKey: |
+        fingerprint: 2956B7F7167769370C93730C7264DA7B85D08A37
+        url: https://keys.openpgp.org/vks/v1/by-fingerprint/2956B7F7167769370C93730C7264DA7B85D08A37
+    apiVersion: v2
+    appVersion: 0.40.1
+    created: "2026-03-13T14:31:43.152842683Z"
+    description: Headlamp is an easy-to-use and extensible Kubernetes web UI.
+    digest: ac3d1e01b0de7d8a1a091cd887826f3ff3031573092201037344cfbce5e0e1b9
+    home: https://headlamp.dev/
+    icon: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/main/docs/headlamp_light.svg
+    keywords:
+    - kubernetes
+    - plugins
+    - kinvolk
+    - headlamp
+    - dashboard
+    - ui
+    - web
+    - monitoring
+    - logging
+    maintainers:
+    - name: kinvolk
+      url: https://kinvolk.io/
+    name: headlamp
+    sources:
+    - https://github.com/kubernetes-sigs/headlamp/tree/main/charts/headlamp
+    - https://github.com/kubernetes-sigs/headlamp
+    type: application
+    urls:
+    - https://github.com/kubernetes-sigs/headlamp/releases/download/headlamp-helm-0.40.1/headlamp-0.40.1.tgz
+    version: 0.40.1
+  - annotations:
+      artifacthub.io/category: monitoring-logging
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/screenshots: |
+        - title: Cluster Overview
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/cluster_overview.png
+        - title: Cluster Chooser
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/cluster_chooser.png
+        - title: Nodes
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/nodes.png
+        - title: Resource edition
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/resource_edition.png
+        - title: Editor Documentation
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/editor_documentation.png
+        - title: Terminal
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/terminal.png
+      artifacthub.io/signKey: |
+        fingerprint: 2956B7F7167769370C93730C7264DA7B85D08A37
+        url: https://keys.openpgp.org/vks/v1/by-fingerprint/2956B7F7167769370C93730C7264DA7B85D08A37
+    apiVersion: v2
+    appVersion: 0.40.0
+    created: "2026-02-05T17:34:22.794617335Z"
+    description: Headlamp is an easy-to-use and extensible Kubernetes web UI.
+    digest: 351e766258fc4abf59add1a2e4ea5240684916cf6b8e55e60282c8c0e961053c
+    home: https://headlamp.dev/
+    icon: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/main/docs/headlamp_light.svg
+    keywords:
+    - kubernetes
+    - plugins
+    - kinvolk
+    - headlamp
+    - dashboard
+    - ui
+    - web
+    - monitoring
+    - logging
+    maintainers:
+    - name: kinvolk
+      url: https://kinvolk.io/
+    name: headlamp
+    sources:
+    - https://github.com/kubernetes-sigs/headlamp/tree/main/charts/headlamp
+    - https://github.com/kubernetes-sigs/headlamp
+    type: application
+    urls:
+    - https://github.com/kubernetes-sigs/headlamp/releases/download/headlamp-helm-0.40.0/headlamp-0.40.0.tgz
+    version: 0.40.0
+  - annotations:
+      artifacthub.io/category: monitoring-logging
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/screenshots: |
+        - title: Cluster Overview
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/cluster_overview.png
+        - title: Cluster Chooser
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/cluster_chooser.png
+        - title: Nodes
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/nodes.png
+        - title: Resource edition
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/resource_edition.png
+        - title: Editor Documentation
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/editor_documentation.png
+        - title: Terminal
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/terminal.png
+      artifacthub.io/signKey: |
+        fingerprint: 2956B7F7167769370C93730C7264DA7B85D08A37
+        url: https://keys.openpgp.org/vks/v1/by-fingerprint/2956B7F7167769370C93730C7264DA7B85D08A37
+    apiVersion: v2
+    appVersion: 0.39.0
+    created: "2025-12-18T14:45:35.96379621Z"
+    description: Headlamp is an easy-to-use and extensible Kubernetes web UI.
+    digest: 38f790495475ef4c1cc4b8288d3022d8bc18e50ab630ba12e0d6e62501cf1353
+    home: https://headlamp.dev/
+    icon: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/main/docs/headlamp_light.svg
+    keywords:
+    - kubernetes
+    - plugins
+    - kinvolk
+    - headlamp
+    - dashboard
+    - ui
+    - web
+    - monitoring
+    - logging
+    maintainers:
+    - name: kinvolk
+      url: https://kinvolk.io/
+    name: headlamp
+    sources:
+    - https://github.com/kubernetes-sigs/headlamp/tree/main/charts/headlamp
+    - https://github.com/kubernetes-sigs/headlamp
+    type: application
+    urls:
+    - https://github.com/kubernetes-sigs/headlamp/releases/download/headlamp-helm-0.39.0/headlamp-0.39.0.tgz
+    version: 0.39.0
+  - annotations:
+      artifacthub.io/category: monitoring-logging
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/screenshots: |
+        - title: Cluster Overview
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/cluster_overview.png
+        - title: Cluster Chooser
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/cluster_chooser.png
+        - title: Nodes
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/nodes.png
+        - title: Resource edition
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/resource_edition.png
+        - title: Editor Documentation
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/editor_documentation.png
+        - title: Terminal
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/terminal.png
+      artifacthub.io/signKey: |
+        fingerprint: 2956B7F7167769370C93730C7264DA7B85D08A37
+        url: https://keys.openpgp.org/vks/v1/by-fingerprint/2956B7F7167769370C93730C7264DA7B85D08A37
+    apiVersion: v2
+    appVersion: 0.38.0
+    created: "2025-11-11T20:06:19.794087405Z"
+    description: Headlamp is an easy-to-use and extensible Kubernetes web UI.
+    digest: 57ba130776d214a590a8558e5ba92f992347f5a15970dcfc326928ec041d8868
+    home: https://headlamp.dev/
+    icon: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/main/docs/headlamp_light.svg
+    keywords:
+    - kubernetes
+    - plugins
+    - kinvolk
+    - headlamp
+    - dashboard
+    - ui
+    - web
+    - monitoring
+    - logging
+    maintainers:
+    - name: kinvolk
+      url: https://kinvolk.io/
+    name: headlamp
+    sources:
+    - https://github.com/kubernetes-sigs/headlamp/tree/main/charts/headlamp
+    - https://github.com/kubernetes-sigs/headlamp
+    type: application
+    urls:
+    - https://github.com/kubernetes-sigs/headlamp/releases/download/headlamp-helm-0.38.0/headlamp-0.38.0.tgz
+    version: 0.38.0
+  - annotations:
+      artifacthub.io/category: monitoring-logging
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/screenshots: |
+        - title: Cluster Overview
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/cluster_overview.png
+        - title: Cluster Chooser
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/cluster_chooser.png
+        - title: Nodes
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/nodes.png
+        - title: Resource edition
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/resource_edition.png
+        - title: Editor Documentation
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/editor_documentation.png
+        - title: Terminal
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/terminal.png
+      artifacthub.io/signKey: |
+        fingerprint: 2956B7F7167769370C93730C7264DA7B85D08A37
+        url: https://keys.openpgp.org/vks/v1/by-fingerprint/2956B7F7167769370C93730C7264DA7B85D08A37
+    apiVersion: v2
+    appVersion: 0.37.0
+    created: "2025-10-31T14:02:11.770151551Z"
+    description: Headlamp is an easy-to-use and extensible Kubernetes web UI.
+    digest: 67ad5f5007f4287504f8d8871298e5fea429f73c80077b5f5e2c86bb52cb6209
+    home: https://headlamp.dev/
+    icon: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/main/docs/headlamp_light.svg
+    keywords:
+    - kubernetes
+    - plugins
+    - kinvolk
+    - headlamp
+    - dashboard
+    - ui
+    - web
+    - monitoring
+    - logging
+    maintainers:
+    - name: kinvolk
+      url: https://kinvolk.io/
+    name: headlamp
+    sources:
+    - https://github.com/kubernetes-sigs/headlamp/tree/main/charts/headlamp
+    - https://github.com/kubernetes-sigs/headlamp
+    type: application
+    urls:
+    - https://github.com/kubernetes-sigs/headlamp/releases/download/headlamp-helm-0.37.0/headlamp-0.37.0.tgz
+    version: 0.37.0
+  - annotations:
+      artifacthub.io/category: monitoring-logging
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/screenshots: |
+        - title: Cluster Overview
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/cluster_overview.png
+        - title: Cluster Chooser
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/cluster_chooser.png
+        - title: Nodes
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/nodes.png
+        - title: Resource edition
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/resource_edition.png
+        - title: Editor Documentation
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/editor_documentation.png
+        - title: Terminal
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/terminal.png
+      artifacthub.io/signKey: |
+        fingerprint: 2956B7F7167769370C93730C7264DA7B85D08A37
+        url: https://keys.openpgp.org/vks/v1/by-fingerprint/2956B7F7167769370C93730C7264DA7B85D08A37
+    apiVersion: v2
+    appVersion: 0.36.0
+    created: "2025-10-02T21:28:38.003369068Z"
+    description: Headlamp is an easy-to-use and extensible Kubernetes web UI.
+    digest: e0f0b0316892c24d1b3e713f8ec3183ef0470b03641d28481987851d6b8df465
+    home: https://headlamp.dev/
+    icon: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/main/docs/headlamp_light.svg
+    keywords:
+    - kubernetes
+    - plugins
+    - kinvolk
+    - headlamp
+    - dashboard
+    - ui
+    - web
+    - monitoring
+    - logging
+    maintainers:
+    - name: kinvolk
+      url: https://kinvolk.io/
+    name: headlamp
+    sources:
+    - https://github.com/kubernetes-sigs/headlamp/tree/main/charts/headlamp
+    - https://github.com/kubernetes-sigs/headlamp
+    type: application
+    urls:
+    - https://github.com/kubernetes-sigs/headlamp/releases/download/headlamp-helm-0.36.0/headlamp-0.36.0.tgz
+    version: 0.36.0
+  - annotations:
+      artifacthub.io/category: monitoring-logging
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/screenshots: |
+        - title: Cluster Overview
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/cluster_overview.png
+        - title: Cluster Chooser
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/cluster_chooser.png
+        - title: Nodes
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/nodes.png
+        - title: Resource edition
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/resource_edition.png
+        - title: Editor Documentation
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/editor_documentation.png
+        - title: Terminal
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/terminal.png
+      artifacthub.io/signKey: |
+        fingerprint: 2956B7F7167769370C93730C7264DA7B85D08A37
+        url: https://keys.openpgp.org/vks/v1/by-fingerprint/2956B7F7167769370C93730C7264DA7B85D08A37
+    apiVersion: v2
+    appVersion: 0.35.0
+    created: "2025-09-03T07:10:04.977470354Z"
+    description: Headlamp is an easy-to-use and extensible Kubernetes web UI.
+    digest: c30177664b0d51ef7c9a3635d96b301a004b48bb871cad432e1272446e0b28f8
+    home: https://headlamp.dev/
+    icon: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/main/docs/headlamp_light.svg
+    keywords:
+    - kubernetes
+    - plugins
+    - kinvolk
+    - headlamp
+    - dashboard
+    - ui
+    - web
+    - monitoring
+    - logging
+    maintainers:
+    - name: kinvolk
+      url: https://kinvolk.io/
+    name: headlamp
+    sources:
+    - https://github.com/kubernetes-sigs/headlamp/tree/main/charts/headlamp
+    - https://github.com/kubernetes-sigs/headlamp
+    type: application
+    urls:
+    - https://github.com/kubernetes-sigs/headlamp/releases/download/headlamp-helm-0.35.0/headlamp-0.35.0.tgz
+    version: 0.35.0
+  - annotations:
+      artifacthub.io/category: monitoring-logging
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/screenshots: |
+        - title: Cluster Overview
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/cluster_overview.png
+        - title: Cluster Chooser
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/cluster_chooser.png
+        - title: Nodes
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/nodes.png
+        - title: Resource edition
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/resource_edition.png
+        - title: Editor Documentation
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/editor_documentation.png
+        - title: Terminal
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/terminal.png
+      artifacthub.io/signKey: |
+        fingerprint: 2956B7F7167769370C93730C7264DA7B85D08A37
+        url: https://keys.openpgp.org/vks/v1/by-fingerprint/2956B7F7167769370C93730C7264DA7B85D08A37
+    apiVersion: v2
+    appVersion: 0.34.0
+    created: "2025-08-05T13:42:27.059811437Z"
+    description: Headlamp is an easy-to-use and extensible Kubernetes web UI.
+    digest: a46f096d607a158536e8e6a76e772dda87acf9ddd04a2d36a18127ad232e513f
+    home: https://headlamp.dev/
+    icon: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/main/docs/headlamp_light.svg
+    keywords:
+    - kubernetes
+    - plugins
+    - kinvolk
+    - headlamp
+    - dashboard
+    - ui
+    - web
+    - monitoring
+    - logging
+    maintainers:
+    - name: kinvolk
+      url: https://kinvolk.io/
+    name: headlamp
+    sources:
+    - https://github.com/kubernetes-sigs/headlamp/tree/main/charts/headlamp
+    - https://github.com/kubernetes-sigs/headlamp
+    type: application
+    urls:
+    - https://github.com/kubernetes-sigs/headlamp/releases/download/headlamp-helm-0.34.0/headlamp-0.34.0.tgz
+    version: 0.34.0
+  - annotations:
+      artifacthub.io/category: monitoring-logging
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/screenshots: |
+        - title: Cluster Overview
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/cluster_overview.png
+        - title: Cluster Chooser
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/cluster_chooser.png
+        - title: Nodes
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/nodes.png
+        - title: Resource edition
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/resource_edition.png
+        - title: Editor Documentation
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/editor_documentation.png
+        - title: Terminal
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/terminal.png
+      artifacthub.io/signKey: |
+        fingerprint: 2956B7F7167769370C93730C7264DA7B85D08A37
+        url: https://keys.openpgp.org/vks/v1/by-fingerprint/2956B7F7167769370C93730C7264DA7B85D08A37
+    apiVersion: v2
+    appVersion: 0.33.0
+    created: "2025-07-23T11:13:55.764739003Z"
+    description: Headlamp is an easy-to-use and extensible Kubernetes web UI.
+    digest: 15b77e269b5fea0e3a4066a76af0ecb231470f27de081fd3639847113ab7bb8f
+    home: https://headlamp.dev/
+    icon: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/main/docs/headlamp_light.svg
+    keywords:
+    - kubernetes
+    - plugins
+    - kinvolk
+    - headlamp
+    - dashboard
+    - ui
+    - web
+    - monitoring
+    - logging
+    maintainers:
+    - name: kinvolk
+      url: https://kinvolk.io/
+    name: headlamp
+    sources:
+    - https://github.com/kubernetes-sigs/headlamp/tree/main/charts/headlamp
+    - https://github.com/kubernetes-sigs/headlamp
+    type: application
+    urls:
+    - https://github.com/kubernetes-sigs/headlamp/releases/download/headlamp-helm-0.33.0/headlamp-0.33.0.tgz
+    version: 0.33.0
+  - annotations:
+      artifacthub.io/category: monitoring-logging
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/screenshots: |
+        - title: Cluster Overview
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/cluster_overview.png
+        - title: Cluster Chooser
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/cluster_chooser.png
+        - title: Nodes
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/nodes.png
+        - title: Resource edition
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/resource_edition.png
+        - title: Editor Documentation
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/editor_documentation.png
+        - title: Terminal
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/terminal.png
+      artifacthub.io/signKey: |
+        fingerprint: 2956B7F7167769370C93730C7264DA7B85D08A37
+        url: https://keys.openpgp.org/vks/v1/by-fingerprint/2956B7F7167769370C93730C7264DA7B85D08A37
+    apiVersion: v2
+    appVersion: 0.32.0
+    created: "2025-07-04T10:00:06.993225591Z"
+    description: Headlamp is an easy-to-use and extensible Kubernetes web UI.
+    digest: 79c999e3a1bfe42b15d71bd480ce029c21b4ded8d1e70f1ceac9a19bf5bef89a
+    home: https://headlamp.dev/
+    icon: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/main/docs/headlamp_light.svg
+    keywords:
+    - kubernetes
+    - plugins
+    - kinvolk
+    - headlamp
+    - dashboard
+    - ui
+    - web
+    - monitoring
+    - logging
+    maintainers:
+    - name: kinvolk
+      url: https://kinvolk.io/
+    name: headlamp
+    sources:
+    - https://github.com/kubernetes-sigs/headlamp/tree/main/charts/headlamp
+    - https://github.com/kubernetes-sigs/headlamp
+    type: application
+    urls:
+    - https://github.com/kubernetes-sigs/headlamp/releases/download/headlamp-helm-0.32.1/headlamp-0.32.1.tgz
+    version: 0.32.1
+  - annotations:
+      artifacthub.io/category: monitoring-logging
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/screenshots: |
+        - title: Cluster Overview
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/cluster_overview.png
+        - title: Cluster Chooser
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/cluster_chooser.png
+        - title: Nodes
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/nodes.png
+        - title: Resource edition
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/resource_edition.png
+        - title: Editor Documentation
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/editor_documentation.png
+        - title: Terminal
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/terminal.png
+      artifacthub.io/signKey: |
+        fingerprint: 2956B7F7167769370C93730C7264DA7B85D08A37
+        url: https://keys.openpgp.org/vks/v1/by-fingerprint/2956B7F7167769370C93730C7264DA7B85D08A37
+    apiVersion: v2
+    appVersion: 0.31.1
+    created: "2025-06-09T09:58:25.699966365Z"
+    description: Headlamp is an easy-to-use and extensible Kubernetes web UI.
+    digest: bf2e3d043d8a3999b07ec975eb34e8f290f683e6a6378c154de5a584348e1bdf
+    home: https://headlamp.dev/
+    icon: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/main/docs/headlamp_light.svg
+    keywords:
+    - kubernetes
+    - plugins
+    - kinvolk
+    - headlamp
+    - dashboard
+    - ui
+    - web
+    - monitoring
+    - logging
+    maintainers:
+    - name: kinvolk
+      url: https://kinvolk.io/
+    name: headlamp
+    sources:
+    - https://github.com/kubernetes-sigs/headlamp/tree/main/charts/headlamp
+    - https://github.com/kubernetes-sigs/headlamp
+    type: application
+    urls:
+    - https://github.com/kubernetes-sigs/headlamp/releases/download/headlamp-helm-0.31.1/headlamp-0.31.1.tgz
+    version: 0.31.1
+  - annotations:
+      artifacthub.io/category: monitoring-logging
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/screenshots: |
+        - title: Cluster Overview
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/cluster_overview.png
+        - title: Cluster Chooser
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/cluster_chooser.png
+        - title: Nodes
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/nodes.png
+        - title: Resource edition
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/resource_edition.png
+        - title: Editor Documentation
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/editor_documentation.png
+        - title: Terminal
+          url: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/screenshots/screenshots/terminal.png
+      artifacthub.io/signKey: |
+        fingerprint: 2956B7F7167769370C93730C7264DA7B85D08A37
+        url: https://keys.openpgp.org/vks/v1/by-fingerprint/2956B7F7167769370C93730C7264DA7B85D08A37
+    apiVersion: v2
+    appVersion: 0.31.0
+    created: "2025-05-30T13:53:29.177709149Z"
+    description: Headlamp is an easy-to-use and extensible Kubernetes web UI.
+    digest: 1f4caf53a7631657a507fbddb6b235e8ccb75a9c6b564ff7b89d03a73eb6d2e0
+    home: https://headlamp.dev/
+    icon: https://raw.githubusercontent.com/kubernetes-sigs/headlamp/main/docs/headlamp_light.svg
+    keywords:
+    - kubernetes
+    - plugins
+    - kinvolk
+    - headlamp
+    - dashboard
+    - ui
+    - web
+    - monitoring
+    - logging
+    maintainers:
+    - name: kinvolk
+      url: https://kinvolk.io/
+    name: headlamp
+    sources:
+    - https://github.com/kubernetes-sigs/headlamp/tree/main/charts/headlamp
+    - https://github.com/kubernetes-sigs/headlamp
+    type: application
+    urls:
+    - https://github.com/kubernetes-sigs/headlamp/releases/download/headlamp-helm-0.31.0/headlamp-0.31.0.tgz
+    version: 0.31.0
+  - annotations:
+      artifacthub.io/category: monitoring-logging
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/screenshots: |
+        - title: Cluster Overview
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/cluster_overview.png
+        - title: Cluster Chooser
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/cluster_chooser.png
+        - title: Nodes
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/nodes.png
+        - title: Resource edition
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/resource_edition.png
+        - title: Editor Documentation
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/editor_documentation.png
+        - title: Terminal
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/terminal.png
+      artifacthub.io/signKey: |
+        fingerprint: 2956B7F7167769370C93730C7264DA7B85D08A37
+        url: https://keys.openpgp.org/vks/v1/by-fingerprint/2956B7F7167769370C93730C7264DA7B85D08A37
+    apiVersion: v2
+    appVersion: 0.30.0
+    created: "2025-03-28T09:36:03.999201115Z"
+    description: Headlamp is an easy-to-use and extensible Kubernetes web UI.
+    digest: 75055805485a053130fcd497bfa003e6de70a123b3d0f44a238364ab2e70c936
+    home: https://headlamp.dev/
+    icon: https://raw.githubusercontent.com/headlamp-k8s/headlamp/main/docs/headlamp_light.svg
+    keywords:
+    - kubernetes
+    - plugins
+    - kinvolk
+    - headlamp
+    - dashboard
+    - ui
+    - web
+    - monitoring
+    - logging
+    maintainers:
+    - name: kinvolk
+      url: https://kinvolk.io/
+    name: headlamp
+    sources:
+    - https://github.com/headlamp-k8s/headlamp/tree/main/charts/headlamp
+    - https://github.com/headlamp-k8s/headlamp
+    type: application
+    urls:
+    - https://github.com/headlamp-k8s/headlamp/releases/download/headlamp-helm-0.30.1/headlamp-0.30.1.tgz
+    version: 0.30.1
+  - annotations:
+      artifacthub.io/category: monitoring-logging
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/screenshots: |
+        - title: Cluster Overview
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/cluster_overview.png
+        - title: Cluster Chooser
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/cluster_chooser.png
+        - title: Nodes
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/nodes.png
+        - title: Resource edition
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/resource_edition.png
+        - title: Editor Documentation
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/editor_documentation.png
+        - title: Terminal
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/terminal.png
+      artifacthub.io/signKey: |
+        fingerprint: 2956B7F7167769370C93730C7264DA7B85D08A37
+        url: https://keys.openpgp.org/vks/v1/by-fingerprint/2956B7F7167769370C93730C7264DA7B85D08A37
+    apiVersion: v2
+    appVersion: 0.29.0
+    created: "2025-02-27T05:14:23.111632347Z"
+    description: Headlamp is an easy-to-use and extensible Kubernetes web UI.
+    digest: 57e9374ba5f142e9b52fe4bf0182afce5c23d0320ab256adb614fb5b9474ab72
+    home: https://headlamp.dev/
+    icon: https://raw.githubusercontent.com/headlamp-k8s/headlamp/main/docs/headlamp_light.svg
+    keywords:
+    - kubernetes
+    - plugins
+    - kinvolk
+    - headlamp
+    - dashboard
+    - ui
+    - web
+    - monitoring
+    - logging
+    maintainers:
+    - name: kinvolk
+      url: https://kinvolk.io/
+    name: headlamp
+    sources:
+    - https://github.com/headlamp-k8s/headlamp/tree/main/charts/headlamp
+    - https://github.com/headlamp-k8s/headlamp
+    type: application
+    urls:
+    - https://github.com/headlamp-k8s/headlamp/releases/download/headlamp-helm-0.29.1/headlamp-0.29.1.tgz
+    version: 0.29.1
+  - annotations:
+      artifacthub.io/category: monitoring-logging
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/screenshots: |
+        - title: Cluster Overview
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/cluster_overview.png
+        - title: Cluster Chooser
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/cluster_chooser.png
+        - title: Nodes
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/nodes.png
+        - title: Resource edition
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/resource_edition.png
+        - title: Editor Documentation
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/editor_documentation.png
+        - title: Terminal
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/terminal.png
+      artifacthub.io/signKey: |
+        fingerprint: 2956B7F7167769370C93730C7264DA7B85D08A37
+        url: https://keys.openpgp.org/vks/v1/by-fingerprint/2956B7F7167769370C93730C7264DA7B85D08A37
+    apiVersion: v2
+    appVersion: 0.28.1
+    created: "2025-02-07T15:19:04.436192011Z"
+    description: Headlamp is an easy-to-use and extensible Kubernetes web UI.
+    digest: 1a6e90b8e61e633cc5c0165ffa05e04eb8569383ebbc358fd3e03e46e9f1a812
+    home: https://headlamp.dev/
+    icon: https://raw.githubusercontent.com/headlamp-k8s/headlamp/main/docs/headlamp_light.svg
+    keywords:
+    - kubernetes
+    - plugins
+    - kinvolk
+    - headlamp
+    - dashboard
+    - ui
+    - web
+    - monitoring
+    - logging
+    maintainers:
+    - name: kinvolk
+      url: https://kinvolk.io/
+    name: headlamp
+    sources:
+    - https://github.com/headlamp-k8s/headlamp/tree/main/charts/headlamp
+    - https://github.com/headlamp-k8s/headlamp
+    type: application
+    urls:
+    - https://github.com/headlamp-k8s/headlamp/releases/download/headlamp-helm-0.28.1/headlamp-0.28.1.tgz
+    version: 0.28.1
+  - annotations:
+      artifacthub.io/category: monitoring-logging
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/screenshots: |
+        - title: Cluster Overview
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/cluster_overview.png
+        - title: Cluster Chooser
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/cluster_chooser.png
+        - title: Nodes
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/nodes.png
+        - title: Resource edition
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/resource_edition.png
+        - title: Editor Documentation
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/editor_documentation.png
+        - title: Terminal
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/terminal.png
+      artifacthub.io/signKey: |
+        fingerprint: 2956B7F7167769370C93730C7264DA7B85D08A37
+        url: https://keys.openpgp.org/vks/v1/by-fingerprint/2956B7F7167769370C93730C7264DA7B85D08A37
+    apiVersion: v2
+    appVersion: 0.28.0
+    created: "2025-01-23T21:51:17.632476017Z"
+    description: Headlamp is an easy-to-use and extensible Kubernetes web UI.
+    digest: 15916dedf274ad6331502ec335bc1618d23415b66f542e9a06549089c06563b4
+    home: https://headlamp.dev/
+    icon: https://raw.githubusercontent.com/headlamp-k8s/headlamp/main/docs/headlamp_light.svg
+    keywords:
+    - kubernetes
+    - plugins
+    - kinvolk
+    - headlamp
+    - dashboard
+    - ui
+    - web
+    - monitoring
+    - logging
+    maintainers:
+    - name: kinvolk
+      url: https://kinvolk.io/
+    name: headlamp
+    sources:
+    - https://github.com/headlamp-k8s/headlamp/tree/main/charts/headlamp
+    - https://github.com/headlamp-k8s/headlamp
+    type: application
+    urls:
+    - https://github.com/headlamp-k8s/headlamp/releases/download/headlamp-helm-0.28.0/headlamp-0.28.0.tgz
+    version: 0.28.0
+  - annotations:
+      artifacthub.io/category: monitoring-logging
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/screenshots: |
+        - title: Cluster Overview
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/cluster_overview.png
+        - title: Cluster Chooser
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/cluster_chooser.png
+        - title: Nodes
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/nodes.png
+        - title: Resource edition
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/resource_edition.png
+        - title: Editor Documentation
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/editor_documentation.png
+        - title: Terminal
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/terminal.png
+      artifacthub.io/signKey: |
+        fingerprint: 2956B7F7167769370C93730C7264DA7B85D08A37
+        url: https://keys.openpgp.org/vks/v1/by-fingerprint/2956B7F7167769370C93730C7264DA7B85D08A37
+    apiVersion: v2
+    appVersion: 0.27.0
+    created: "2024-12-12T22:21:54.730491383Z"
+    description: Headlamp is an easy-to-use and extensible Kubernetes web UI.
+    digest: 6b19072dba6b9f71666689d85186b427b9ceb7a9d934ebb537ddff3382c8aa87
+    home: https://headlamp.dev/
+    icon: https://raw.githubusercontent.com/headlamp-k8s/headlamp/main/docs/headlamp_light.svg
+    keywords:
+    - kubernetes
+    - plugins
+    - kinvolk
+    - headlamp
+    - dashboard
+    - ui
+    - web
+    - monitoring
+    - logging
+    maintainers:
+    - name: kinvolk
+      url: https://kinvolk.io/
+    name: headlamp
+    sources:
+    - https://github.com/headlamp-k8s/headlamp/tree/main/charts/headlamp
+    - https://github.com/headlamp-k8s/headlamp
+    type: application
+    urls:
+    - https://github.com/headlamp-k8s/headlamp/releases/download/headlamp-helm-0.27.0/headlamp-0.27.0.tgz
+    version: 0.27.0
+  - annotations:
+      artifacthub.io/category: monitoring-logging
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/screenshots: |
+        - title: Cluster Overview
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/cluster_overview.png
+        - title: Cluster Chooser
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/cluster_chooser.png
+        - title: Nodes
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/nodes.png
+        - title: Resource edition
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/resource_edition.png
+        - title: Editor Documentation
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/editor_documentation.png
+        - title: Terminal
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/terminal.png
+      artifacthub.io/signKey: |
+        fingerprint: 2956B7F7167769370C93730C7264DA7B85D08A37
+        url: https://keys.openpgp.org/vks/v1/by-fingerprint/2956B7F7167769370C93730C7264DA7B85D08A37
+    apiVersion: v2
+    appVersion: 0.26.0
+    created: "2024-11-06T15:26:57.109763798Z"
+    description: Headlamp is an easy-to-use and extensible Kubernetes web UI.
+    digest: 8caf2c230bc6f061aabc8062801f00cc1fa2a2f8ad5672debd78e0eee16088ae
+    home: https://headlamp.dev/
+    icon: https://raw.githubusercontent.com/headlamp-k8s/headlamp/main/docs/headlamp_light.svg
+    keywords:
+    - kubernetes
+    - plugins
+    - kinvolk
+    - headlamp
+    - dashboard
+    - ui
+    - web
+    - monitoring
+    - logging
+    maintainers:
+    - name: kinvolk
+      url: https://kinvolk.io/
+    name: headlamp
+    sources:
+    - https://github.com/headlamp-k8s/headlamp/tree/main/charts/headlamp
+    - https://github.com/headlamp-k8s/headlamp
+    type: application
+    urls:
+    - https://github.com/headlamp-k8s/headlamp/releases/download/headlamp-helm-0.26.0/headlamp-0.26.0.tgz
+    version: 0.26.0
+  - annotations:
+      artifacthub.io/category: monitoring-logging
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/screenshots: |
+        - title: Cluster Overview
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/cluster_overview.png
+        - title: Cluster Chooser
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/cluster_chooser.png
+        - title: Nodes
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/nodes.png
+        - title: Resource edition
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/resource_edition.png
+        - title: Editor Documentation
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/editor_documentation.png
+        - title: Terminal
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/terminal.png
+      artifacthub.io/signKey: |
+        fingerprint: 2956B7F7167769370C93730C7264DA7B85D08A37
+        url: https://keys.openpgp.org/vks/v1/by-fingerprint/2956B7F7167769370C93730C7264DA7B85D08A37
+    apiVersion: v2
+    appVersion: 0.25.1
+    created: "2024-09-04T07:42:47.573060478Z"
+    description: Headlamp is an easy-to-use and extensible Kubernetes web UI.
+    digest: 94afb3a9fa19644eb3acb86d49aca6b13ee09381b1b8da84df22ce28741afc1b
+    home: https://headlamp.dev/
+    icon: https://raw.githubusercontent.com/headlamp-k8s/headlamp/main/docs/headlamp_light.svg
+    keywords:
+    - kubernetes
+    - plugins
+    - kinvolk
+    - headlamp
+    - dashboard
+    - ui
+    - web
+    - monitoring
+    - logging
+    maintainers:
+    - name: kinvolk
+      url: https://kinvolk.io/
+    name: headlamp
+    sources:
+    - https://github.com/headlamp-k8s/headlamp/tree/main/charts/headlamp
+    - https://github.com/headlamp-k8s/headlamp
+    type: application
+    urls:
+    - https://github.com/headlamp-k8s/headlamp/releases/download/headlamp-helm-0.25.0/headlamp-0.25.0.tgz
+    version: 0.25.0
+  - annotations:
+      artifacthub.io/category: monitoring-logging
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/screenshots: |
+        - title: Cluster Overview
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/cluster_overview.png
+        - title: Cluster Chooser
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/cluster_chooser.png
+        - title: Nodes
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/nodes.png
+        - title: Resource edition
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/resource_edition.png
+        - title: Editor Documentation
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/editor_documentation.png
+        - title: Terminal
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/terminal.png
+      artifacthub.io/signKey: |
+        fingerprint: 2956B7F7167769370C93730C7264DA7B85D08A37
+        url: https://keys.openpgp.org/vks/v1/by-fingerprint/2956B7F7167769370C93730C7264DA7B85D08A37
+    apiVersion: v2
+    appVersion: 0.25.0
+    created: "2024-07-30T09:58:14.548933649Z"
+    description: Headlamp is an easy-to-use and extensible Kubernetes web UI.
+    digest: cc37ec2303c772ca43621fadbef49f676fddcb5c635ebb7e24f18ac1396099f4
+    home: https://headlamp.dev/
+    icon: https://raw.githubusercontent.com/headlamp-k8s/headlamp/main/docs/headlamp_light.svg
+    keywords:
+    - kubernetes
+    - plugins
+    - kinvolk
+    - headlamp
+    - dashboard
+    - ui
+    - web
+    - monitoring
+    - logging
+    maintainers:
+    - name: kinvolk
+      url: https://kinvolk.io/
+    name: headlamp
+    sources:
+    - https://github.com/headlamp-k8s/headlamp/tree/main/charts/headlamp
+    - https://github.com/headlamp-k8s/headlamp
+    type: application
+    urls:
+    - https://github.com/headlamp-k8s/headlamp/releases/download/headlamp-helm-0.24.0/headlamp-0.24.0.tgz
+    version: 0.24.0
+  - annotations:
+      artifacthub.io/category: monitoring-logging
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/screenshots: |
+        - title: Cluster Overview
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/cluster_overview.png
+        - title: Cluster Chooser
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/cluster_chooser.png
+        - title: Nodes
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/nodes.png
+        - title: Resource edition
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/resource_edition.png
+        - title: Editor Documentation
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/editor_documentation.png
+        - title: Terminal
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/terminal.png
+    apiVersion: v2
+    appVersion: 0.24.1
+    created: "2024-06-28T08:30:22.80677791Z"
+    description: Headlamp is an easy-to-use and extensible Kubernetes web UI.
+    digest: 59f7a078b5195de5d5b9505994b8328ef1e4bebe81ea337bf86d544384bd103b
+    home: https://headlamp.dev/
+    icon: https://raw.githubusercontent.com/headlamp-k8s/headlamp/main/docs/headlamp_light.svg
+    keywords:
+    - kubernetes
+    - plugins
+    - kinvolk
+    - headlamp
+    - dashboard
+    - ui
+    - web
+    - monitoring
+    - logging
+    maintainers:
+    - name: kinvolk
+      url: https://kinvolk.io/
+    name: headlamp
+    sources:
+    - https://github.com/headlamp-k8s/headlamp/tree/main/charts/headlamp
+    - https://github.com/headlamp-k8s/headlamp
+    type: application
+    urls:
+    - https://github.com/headlamp-k8s/headlamp/releases/download/headlamp-helm-0.23.0/headlamp-0.23.0.tgz
+    version: 0.23.0
+  - annotations:
+      artifacthub.io/category: monitoring-logging
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/screenshots: |
+        - title: Cluster Overview
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/cluster_overview.png
+        - title: Cluster Chooser
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/cluster_chooser.png
+        - title: Nodes
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/nodes.png
+        - title: Resource edition
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/resource_edition.png
+        - title: Editor Documentation
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/editor_documentation.png
+        - title: Terminal
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/terminal.png
+    apiVersion: v2
+    appVersion: 0.24.0
+    created: "2024-05-30T09:19:24.236322491Z"
+    description: Headlamp is an easy-to-use and extensible Kubernetes web UI.
+    digest: 2d894ab9c39212d1671b0e2509823214aa879375467ad9c6c105c821523fa434
+    home: https://headlamp.dev/
+    icon: https://raw.githubusercontent.com/headlamp-k8s/headlamp/main/docs/headlamp_light.svg
+    keywords:
+    - kubernetes
+    - plugins
+    - kinvolk
+    - headlamp
+    - dashboard
+    - ui
+    - web
+    - monitoring
+    - logging
+    maintainers:
+    - name: kinvolk
+      url: https://kinvolk.io/
+    name: headlamp
+    sources:
+    - https://github.com/headlamp-k8s/headlamp/tree/main/charts/headlamp
+    - https://github.com/headlamp-k8s/headlamp
+    type: application
+    urls:
+    - https://github.com/headlamp-k8s/headlamp/releases/download/headlamp-helm-0.22.0/headlamp-0.22.0.tgz
+    version: 0.22.0
+  - annotations:
+      artifacthub.io/category: monitoring-logging
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/screenshots: |
+        - title: Cluster Overview
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/cluster_overview.png
+        - title: Cluster Chooser
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/cluster_chooser.png
+        - title: Nodes
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/nodes.png
+        - title: Resource edition
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/resource_edition.png
+        - title: Editor Documentation
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/editor_documentation.png
+        - title: Terminal
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/terminal.png
+    apiVersion: v2
+    appVersion: 0.23.2
+    created: "2024-05-03T10:48:54.255630615Z"
+    description: Headlamp is an easy-to-use and extensible Kubernetes web UI.
+    digest: ed209f42a8f2998696feeae70afbf20315c03ba1c5bf3e4781e12dd987c6b452
+    home: https://headlamp.dev/
+    icon: https://raw.githubusercontent.com/headlamp-k8s/headlamp/main/docs/headlamp_light.svg
+    keywords:
+    - kubernetes
+    - plugins
+    - kinvolk
+    - headlamp
+    - dashboard
+    - ui
+    - web
+    - monitoring
+    - logging
+    maintainers:
+    - name: kinvolk
+      url: https://kinvolk.io/
+    name: headlamp
+    sources:
+    - https://github.com/headlamp-k8s/headlamp/tree/main/charts/headlamp
+    - https://github.com/headlamp-k8s/headlamp
+    type: application
+    urls:
+    - https://github.com/headlamp-k8s/headlamp/releases/download/headlamp-helm-0.21.0/headlamp-0.21.0.tgz
+    version: 0.21.0
+  - annotations:
+      artifacthub.io/category: monitoring-logging
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/screenshots: |
+        - title: Cluster Overview
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/cluster_overview.png
+        - title: Cluster Chooser
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/cluster_chooser.png
+        - title: Nodes
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/nodes.png
+        - title: Resource edition
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/resource_edition.png
+        - title: Editor Documentation
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/editor_documentation.png
+        - title: Terminal
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/terminal.png
+    apiVersion: v2
+    appVersion: 0.23.1
+    created: "2024-03-27T13:50:26.281159099Z"
+    description: Headlamp is an easy-to-use and extensible Kubernetes web UI.
+    digest: 067e90f644e3d27093bafca348928ba28a79735bdb690234f671d9318858ed3c
+    home: https://headlamp.dev/
+    icon: https://raw.githubusercontent.com/headlamp-k8s/headlamp/main/docs/headlamp_light.svg
+    keywords:
+    - kubernetes
+    - plugins
+    - kinvolk
+    - headlamp
+    - dashboard
+    - ui
+    - web
+    - monitoring
+    - logging
+    maintainers:
+    - name: kinvolk
+      url: https://kinvolk.io/
+    name: headlamp
+    sources:
+    - https://github.com/headlamp-k8s/headlamp/tree/main/charts/headlamp
+    - https://github.com/headlamp-k8s/headlamp
+    type: application
+    urls:
+    - https://github.com/headlamp-k8s/headlamp/releases/download/headlamp-helm-0.20.0/headlamp-0.20.0.tgz
+    version: 0.20.0
+  - annotations:
+      artifacthub.io/category: monitoring-logging
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/screenshots: |
+        - title: Cluster Overview
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/cluster_overview.png
+        - title: Cluster Chooser
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/cluster_chooser.png
+        - title: Nodes
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/nodes.png
+        - title: Resource edition
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/resource_edition.png
+        - title: Editor Documentation
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/editor_documentation.png
+        - title: Terminal
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/terminal.png
+    apiVersion: v2
+    appVersion: 0.23.0
+    created: "2024-03-08T09:43:47.802992051Z"
+    description: Headlamp is an easy-to-use and extensible Kubernetes web UI.
+    digest: 54afd60d6289e37eeda1c3f70749b297646f9baec955aab5f1fcbafd69fed082
+    home: https://headlamp.dev/
+    icon: https://raw.githubusercontent.com/headlamp-k8s/headlamp/main/docs/headlamp_light.svg
+    keywords:
+    - kubernetes
+    - plugins
+    - kinvolk
+    - headlamp
+    - dashboard
+    - ui
+    - web
+    - monitoring
+    - logging
+    maintainers:
+    - name: kinvolk
+      url: https://kinvolk.io/
+    name: headlamp
+    sources:
+    - https://github.com/headlamp-k8s/headlamp/tree/main/charts/headlamp
+    - https://github.com/headlamp-k8s/headlamp
+    type: application
+    urls:
+    - https://github.com/headlamp-k8s/headlamp/releases/download/headlamp-helm-0.19.0/headlamp-0.19.0.tgz
+    version: 0.19.0
+  - annotations:
+      artifacthub.io/category: monitoring-logging
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/screenshots: |
+        - title: Cluster Overview
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/cluster_overview.png
+        - title: Cluster Chooser
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/cluster_chooser.png
+        - title: Nodes
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/nodes.png
+        - title: Resource edition
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/resource_edition.png
+        - title: Editor Documentation
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/editor_documentation.png
+        - title: Terminal
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/terminal.png
+    apiVersion: v2
+    appVersion: 0.22.0
+    created: "2024-02-19T12:20:06.099663835Z"
+    description: Headlamp is an easy-to-use and extensible Kubernetes web UI.
+    digest: 67b2112b9e8d5f5830e30da6c118e7fe05c0f32dbcbb3c221c5e9d33bd17af1c
+    home: https://headlamp.dev/
+    icon: https://raw.githubusercontent.com/headlamp-k8s/headlamp/main/docs/headlamp_light.svg
+    keywords:
+    - kubernetes
+    - plugins
+    - kinvolk
+    - headlamp
+    - dashboard
+    - ui
+    - web
+    - monitoring
+    - logging
+    maintainers:
+    - name: kinvolk
+      url: https://kinvolk.io/
+    name: headlamp
+    sources:
+    - https://github.com/headlamp-k8s/headlamp/tree/main/charts/headlamp
+    - https://github.com/headlamp-k8s/headlamp
+    type: application
+    urls:
+    - https://github.com/headlamp-k8s/headlamp/releases/download/headlamp-helm-0.18.2/headlamp-0.18.2.tgz
+    version: 0.18.2
+  - annotations:
+      artifacthub.io/category: monitoring-logging
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/screenshots: |
+        - title: Cluster Overview
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/cluster_overview.png
+        - title: Cluster Chooser
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/cluster_chooser.png
+        - title: Nodes
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/nodes.png
+        - title: Resource edition
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/resource_edition.png
+        - title: Editor Documentation
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/editor_documentation.png
+        - title: Terminal
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/terminal.png
+    apiVersion: v2
+    appVersion: 0.22.0
+    created: "2024-01-30T18:35:53.632121537Z"
+    description: Headlamp is an easy-to-use and extensible Kubernetes web UI.
+    digest: f44ecb8aeb68582c4d03bfeadb289fdc50c19c00fdc1f9d7d10a2f0700f26383
+    home: https://headlamp.dev/
+    icon: https://raw.githubusercontent.com/headlamp-k8s/headlamp/main/docs/headlamp_light.svg
+    keywords:
+    - kubernetes
+    - plugins
+    - kinvolk
+    - headlamp
+    - dashboard
+    - ui
+    - web
+    - monitoring
+    - logging
+    maintainers:
+    - name: kinvolk
+      url: https://kinvolk.io/
+    name: headlamp
+    sources:
+    - https://github.com/headlamp-k8s/headlamp/tree/main/charts/headlamp
+    - https://github.com/headlamp-k8s/headlamp
+    type: application
+    urls:
+    - https://github.com/headlamp-k8s/headlamp/releases/download/headlamp-helm-0.18.1/headlamp-0.18.1.tgz
+    version: 0.18.1
+  - annotations:
+      artifacthub.io/category: monitoring-logging
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/screenshots: |
+        - title: Cluster Overview
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/cluster_overview.png
+        - title: Cluster Chooser
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/cluster_chooser.png
+        - title: Nodes
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/nodes.png
+        - title: Resource edition
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/resource_edition.png
+        - title: Editor Documentation
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/editor_documentation.png
+        - title: Terminal
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/terminal.png
+    apiVersion: v2
+    appVersion: 0.22.0
+    created: "2023-12-28T09:41:31.792526348Z"
+    description: Headlamp is an easy-to-use and extensible Kubernetes web UI.
+    digest: 747ebab2333a6f3fdadadf354faa30b89cc1f099c58b1dee74d72646374ebf30
+    home: https://headlamp.dev/
+    icon: https://raw.githubusercontent.com/headlamp-k8s/headlamp/main/docs/headlamp_light.svg
+    keywords:
+    - kubernetes
+    - plugins
+    - kinvolk
+    - headlamp
+    - dashboard
+    - ui
+    - web
+    - monitoring
+    - logging
+    maintainers:
+    - name: kinvolk
+      url: https://kinvolk.io/
+    name: headlamp
+    sources:
+    - https://github.com/headlamp-k8s/headlamp/tree/main/charts/headlamp
+    - https://github.com/headlamp-k8s/headlamp
+    type: application
+    urls:
+    - https://github.com/headlamp-k8s/headlamp/releases/download/headlamp-helm-0.18.0/headlamp-0.18.0.tgz
+    version: 0.18.0
+  - annotations:
+      artifacthub.io/category: monitoring-logging
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/screenshots: |
+        - title: Cluster Overview
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/cluster_overview.png
+        - title: Cluster Chooser
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/cluster_chooser.png
+        - title: Nodes
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/nodes.png
+        - title: Resource edition
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/resource_edition.png
+        - title: Editor Documentation
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/editor_documentation.png
+        - title: Terminal
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/terminal.png
+    apiVersion: v2
+    appVersion: 0.21.0
+    created: "2023-11-08T15:00:58.180355187Z"
+    description: Headlamp is an easy-to-use and extensible Kubernetes web UI.
+    digest: 9a3241fb934a651ec196881a8f3bd431f772b2d384a8a5fda9fe5890d412ddf3
+    home: https://headlamp.dev/
+    icon: https://raw.githubusercontent.com/headlamp-k8s/headlamp/main/docs/headlamp_light.svg
+    keywords:
+    - kubernetes
+    - plugins
+    - kinvolk
+    - headlamp
+    - dashboard
+    - ui
+    - web
+    - monitoring
+    - logging
+    maintainers:
+    - name: kinvolk
+      url: https://kinvolk.io/
+    name: headlamp
+    sources:
+    - https://github.com/headlamp-k8s/headlamp/tree/main/charts/headlamp
+    - https://github.com/headlamp-k8s/headlamp
+    type: application
+    urls:
+    - https://github.com/headlamp-k8s/headlamp/releases/download/headlamp-helm-0.17.1/headlamp-0.17.1.tgz
+    version: 0.17.1
+  - annotations:
+      artifacthub.io/category: monitoring-logging
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/screenshots: |
+        - title: Cluster Overview
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/cluster_overview.png
+        - title: Cluster Chooser
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/cluster_chooser.png
+        - title: Nodes
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/nodes.png
+        - title: Resource edition
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/resource_edition.png
+        - title: Editor Documentation
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/editor_documentation.png
+        - title: Terminal
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/terminal.png
+    apiVersion: v2
+    appVersion: 0.20.1
+    created: "2023-10-09T10:52:33.277151796Z"
+    description: Headlamp is an easy-to-use and extensible Kubernetes web UI.
+    digest: 7cc063aa02489603bee3b4bf61d34fa467b79c6525a0aaada6694792d5c2d05d
+    home: https://headlamp.dev/
+    icon: https://raw.githubusercontent.com/headlamp-k8s/headlamp/main/docs/headlamp_light.svg
+    keywords:
+    - kubernetes
+    - plugins
+    - kinvolk
+    - headlamp
+    - dashboard
+    - ui
+    - web
+    - monitoring
+    - logging
+    maintainers:
+    - name: kinvolk
+      url: https://kinvolk.io/
+    name: headlamp
+    sources:
+    - https://github.com/headlamp-k8s/headlamp/tree/main/charts/headlamp
+    - https://github.com/headlamp-k8s/headlamp
+    type: application
+    urls:
+    - https://github.com/headlamp-k8s/headlamp/releases/download/headlamp-helm-0.16.0/headlamp-0.16.0.tgz
+    version: 0.16.0
+  - annotations:
+      artifacthub.io/category: monitoring-logging
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/screenshots: |
+        - title: Cluster Overview
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/cluster_overview.png
+        - title: Cluster Chooser
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/cluster_chooser.png
+        - title: Nodes
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/nodes.png
+        - title: Resource edition
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/resource_edition.png
+        - title: Editor Documentation
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/editor_documentation.png
+        - title: Terminal
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/terminal.png
+    apiVersion: v2
+    appVersion: 0.19.1
+    created: "2023-08-25T16:44:49.836674335Z"
+    description: Headlamp is an easy-to-use and extensible Kubernetes web UI.
+    digest: 78ae67d21417e1e9f30e490215b54e029d7f0025414189e2704b0f74f60ff9db
+    home: https://headlamp.dev/
+    icon: https://raw.githubusercontent.com/headlamp-k8s/headlamp/main/docs/headlamp_light.svg
+    keywords:
+    - kubernetes
+    - plugins
+    - kinvolk
+    - headlamp
+    - dashboard
+    - ui
+    - web
+    - monitoring
+    - logging
+    maintainers:
+    - name: kinvolk
+      url: https://kinvolk.io/
+    name: headlamp
+    sources:
+    - https://github.com/headlamp-k8s/headlamp/tree/main/charts/headlamp
+    - https://github.com/headlamp-k8s/headlamp
+    type: application
+    urls:
+    - https://github.com/headlamp-k8s/headlamp/releases/download/headlamp-helm-0.15.0/headlamp-0.15.0.tgz
+    version: 0.15.0
+  - annotations:
+      artifacthub.io/category: monitoring-logging
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/screenshots: |
+        - title: Cluster Overview
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/cluster_overview.png
+        - title: Cluster Chooser
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/cluster_chooser.png
+        - title: Nodes
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/nodes.png
+        - title: Resource edition
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/resource_edition.png
+        - title: Editor Documentation
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/editor_documentation.png
+        - title: Terminal
+          url: https://raw.githubusercontent.com/headlamp-k8s/headlamp/screenshots/screenshots/terminal.png
+    apiVersion: v2
+    appVersion: 0.19.0
+    created: "2023-08-03T19:49:15.58601164Z"
+    description: Headlamp is an easy-to-use and extensible Kubernetes web UI.
+    digest: 9c9836688d2b8ad09c219cf2151e8cfc3de1d0ac813b0c9c0d8ed5bc6e8d3041
+    home: https://headlamp.dev/
+    icon: https://raw.githubusercontent.com/headlamp-k8s/headlamp/main/docs/headlamp_light.svg
+    keywords:
+    - kubernetes
+    - plugins
+    - kinvolk
+    - headlamp
+    - dashboard
+    - ui
+    - web
+    - monitoring
+    - logging
+    maintainers:
+    - name: kinvolk
+      url: https://kinvolk.io/
+    name: headlamp
+    sources:
+    - https://github.com/headlamp-k8s/headlamp/tree/main/charts/headlamp
+    - https://github.com/headlamp-k8s/headlamp
+    type: application
+    urls:
+    - https://github.com/headlamp-k8s/headlamp/releases/download/headlamp-helm-0.14.0/headlamp-0.14.0.tgz
+    version: 0.14.0
+  - apiVersion: v2
+    appVersion: 0.18.0
+    created: "2023-07-06T15:58:45.962888241Z"
+    description: Headlamp is an easy-to-use and extensible Kubernetes web UI.
+    digest: 044d1465bbb8e65a704dcab0026fa14c9ab1451555686681aa425ba4a7b461f5
+    home: https://github.com/headlamp-k8s/headlamp/tree/main/deploy/helm
+    icon: https://raw.githubusercontent.com/headlamp-k8s/headlamp/main/docs/headlamp_light.svg
+    keywords:
+    - kubernetes
+    - plugins
+    - kinvolk
+    - headlamp
+    maintainers:
+    - name: kinvolk
+      url: https://kinvolk.io/
+    name: headlamp
+    sources:
+    - https://github.com/headlamp-k8s/headlamp
+    - https://headlamp.dev/
+    type: application
+    urls:
+    - https://github.com/headlamp-k8s/headlamp/releases/download/headlamp-helm-0.13.0/headlamp-0.13.0.tgz
+    version: 0.13.0
+  - apiVersion: v2
+    appVersion: 0.17.1
+    created: "2023-05-29T10:42:09.766351116Z"
+    description: Headlamp is an easy-to-use and extensible Kubernetes web UI.
+    digest: 1724949a37c4bfe93a6be5f9405eec3dee4a794a149e2ef78ab994b31d969fc7
+    home: https://github.com/headlamp-k8s/headlamp/tree/main/deploy/helm
+    icon: https://raw.githubusercontent.com/headlamp-k8s/headlamp/main/docs/headlamp_light.svg
+    keywords:
+    - kubernetes
+    - plugins
+    - kinvolk
+    - headlamp
+    maintainers:
+    - name: kinvolk
+      url: https://kinvolk.io/
+    name: headlamp
+    sources:
+    - https://github.com/headlamp-k8s/headlamp
+    - https://headlamp.dev/
+    type: application
+    urls:
+    - https://github.com/headlamp-k8s/headlamp/releases/download/headlamp-helm-0.12.0/headlamp-0.12.0.tgz
+    version: 0.12.0
+  - apiVersion: v2
+    appVersion: 0.15.1
+    created: "2023-02-17T04:27:37.390689229Z"
+    description: Headlamp is an easy-to-use and extensible Kubernetes web UI.
+    digest: 12e0b5655a65ba41be8399c3b975f52594020f91192f5966522ecf163b63eb09
+    home: https://github.com/headlamp-k8s/headlamp/tree/main/deploy/helm
+    icon: https://raw.githubusercontent.com/headlamp-k8s/headlamp/main/docs/headlamp_light.svg
+    keywords:
+    - kubernetes
+    - plugins
+    - kinvolk
+    - headlamp
+    maintainers:
+    - name: kinvolk
+      url: https://kinvolk.io/
+    name: headlamp
+    sources:
+    - https://github.com/headlamp-k8s/headlamp
+    - https://kinvolk.io/
+    type: application
+    urls:
+    - https://github.com/headlamp-k8s/headlamp/releases/download/headlamp-helm-0.11.0/headlamp-0.11.0.tgz
+    version: 0.11.0
+  - apiVersion: v2
+    appVersion: 0.15.0
+    created: "2023-02-15T10:56:48.847970021Z"
+    description: Headlamp is an easy-to-use and extensible Kubernetes web UI.
+    digest: 09a231fc10a7227d93048e62aad84edccb2105d0f287ccd2ee357968e4051d9e
+    home: https://github.com/headlamp-k8s/headlamp/tree/main/deploy/helm
+    icon: https://raw.githubusercontent.com/headlamp-k8s/headlamp/main/docs/headlamp_light.svg
+    keywords:
+    - kubernetes
+    - plugins
+    - kinvolk
+    - headlamp
+    maintainers:
+    - name: kinvolk
+      url: https://kinvolk.io/
+    name: headlamp
+    sources:
+    - https://github.com/headlamp-k8s/headlamp
+    - https://kinvolk.io/
+    type: application
+    urls:
+    - https://github.com/headlamp-k8s/headlamp/releases/download/headlamp-helm-0.10.0/headlamp-0.10.0.tgz
+    version: 0.10.0
+  - apiVersion: v2
+    appVersion: 0.14.1
+    created: "2022-12-27T11:37:46.414772467Z"
+    description: Headlamp is an easy-to-use and extensible Kubernetes web UI.
+    digest: c134fc3d69cf2f8f29e3893e06cc369b12e3e23ac327bd9841cf2ba41bbdc8ba
+    home: https://github.com/kinvolk/headlamp/tree/main/deploy/helm
+    icon: https://raw.githubusercontent.com/kinvolk/headlamp/main/docs/headlamp_light.svg
+    keywords:
+    - kubernetes
+    - plugins
+    - kinvolk
+    - headlamp
+    maintainers:
+    - name: kinvolk
+      url: https://kinvolk.io/
+    name: headlamp
+    sources:
+    - https://github.com/kinvolk/headlamp
+    - https://kinvolk.io/
+    type: application
+    urls:
+    - https://github.com/kinvolk/headlamp/releases/download/headlamp-helm-0.9.0/headlamp-0.9.0.tgz
+    version: 0.9.0
+  - apiVersion: v2
+    appVersion: 0.12.0
+    created: "2022-08-19T11:04:38.832312011Z"
+    description: Headlamp is an easy-to-use and extensible Kubernetes web UI.
+    digest: 053e7c21db80f3591f8d99ef86f8d9d3e3f39c59e05f0840cb7f5db8b67c15d5
+    home: https://github.com/kinvolk/headlamp/tree/main/deploy/helm
+    icon: https://raw.githubusercontent.com/kinvolk/headlamp/main/docs/headlamp_light.svg
+    keywords:
+    - kubernetes
+    - plugins
+    - kinvolk
+    - headlamp
+    maintainers:
+    - name: kinvolk
+      url: https://kinvolk.io/
+    name: headlamp
+    sources:
+    - https://github.com/kinvolk/headlamp
+    - https://kinvolk.io/
+    type: application
+    urls:
+    - https://github.com/kinvolk/headlamp/releases/download/headlamp-helm-0.8.0/headlamp-0.8.0.tgz
+    version: 0.8.0
+  - apiVersion: v2
+    appVersion: 0.11.1
+    created: "2022-07-29T09:45:05.714451975Z"
+    description: Headlamp is an easy-to-use and extensible Kubernetes web UI.
+    digest: 3d818aa6429cbbd12b5cafe844ba1aad8472d98f40e00403eab8d94b90d6ed73
+    home: https://github.com/kinvolk/headlamp/tree/main/deploy/helm
+    icon: https://raw.githubusercontent.com/kinvolk/headlamp/main/docs/headlamp_light.svg
+    keywords:
+    - kubernetes
+    - plugins
+    - kinvolk
+    - headlamp
+    maintainers:
+    - name: kinvolk
+      url: https://kinvolk.io/
+    name: headlamp
+    sources:
+    - https://github.com/kinvolk/headlamp
+    - https://kinvolk.io/
+    type: application
+    urls:
+    - https://github.com/kinvolk/headlamp/releases/download/headlamp-helm-0.7.0/headlamp-0.7.0.tgz
+    version: 0.7.0
+  - apiVersion: v2
+    appVersion: 0.11.0
+    created: "2022-07-15T16:29:29.767711404Z"
+    description: Headlamp is an easy-to-use and extensible Kubernetes web UI.
+    digest: df909ba7fc035527d7f37b75171336b16ff5c1828e2ea7ff1a382c6200f38c8a
+    home: https://github.com/kinvolk/headlamp/tree/main/deploy/helm
+    icon: https://raw.githubusercontent.com/kinvolk/headlamp/main/docs/headlamp_light.svg
+    keywords:
+    - kubernetes
+    - plugins
+    - kinvolk
+    - headlamp
+    maintainers:
+    - name: kinvolk
+      url: https://kinvolk.io/
+    name: headlamp
+    sources:
+    - https://github.com/kinvolk/headlamp
+    - https://kinvolk.io/
+    type: application
+    urls:
+    - https://github.com/kinvolk/headlamp/releases/download/headlamp-helm-0.6.0/headlamp-0.6.0.tgz
+    version: 0.6.0
+  - apiVersion: v2
+    appVersion: 0.10.1
+    created: "2022-06-30T11:41:48.915166388Z"
+    description: Headlamp is an easy-to-use and extensible Kubernetes web UI.
+    digest: c28e58e51f1b1fe05a6917b6a2c19415c75ad80662cb80869761d01bd110ce11
+    home: https://github.com/kinvolk/headlamp/tree/main/deploy/helm
+    icon: https://raw.githubusercontent.com/kinvolk/headlamp/main/docs/headlamp_light.svg
+    keywords:
+    - kubernetes
+    - plugins
+    - kinvolk
+    - headlamp
+    maintainers:
+    - name: kinvolk
+      url: https://kinvolk.io/
+    name: headlamp
+    sources:
+    - https://github.com/kinvolk/headlamp
+    - https://kinvolk.io/
+    type: application
+    urls:
+    - https://github.com/kinvolk/headlamp/releases/download/headlamp-helm-0.5.0/headlamp-0.5.0.tgz
+    version: 0.5.0
+  - apiVersion: v2
+    appVersion: 0.10.0
+    created: "2022-06-17T13:04:51.0530842Z"
+    description: Headlamp is an easy-to-use and extensible Kubernetes web UI.
+    digest: 4ed563ff3f74a1a7dff087252782652efec634f959fa14d06eec611bcbc4a8d9
+    home: https://github.com/kinvolk/headlamp/tree/main/deploy/helm
+    icon: https://raw.githubusercontent.com/kinvolk/headlamp/main/docs/headlamp_light.svg
+    keywords:
+    - kubernetes
+    - plugins
+    - kinvolk
+    - headlamp
+    maintainers:
+    - name: kinvolk
+      url: https://kinvolk.io/
+    name: headlamp
+    sources:
+    - https://github.com/kinvolk/headlamp
+    - https://kinvolk.io/
+    type: application
+    urls:
+    - https://github.com/kinvolk/headlamp/releases/download/headlamp-helm-0.4.0/headlamp-0.4.0.tgz
+    version: 0.4.0
+  - apiVersion: v2
+    appVersion: 0.9.0
+    created: "2022-05-24T07:32:50.813578472Z"
+    description: Headlamp is an easy-to-use and extensible Kubernetes web UI.
+    digest: 05e4aceb2ba80463110a164b07a7df1f3a37dcba894c9982d9d1f8cc6ae6f579
+    home: https://github.com/kinvolk/headlamp/tree/main/deploy/helm
+    icon: https://raw.githubusercontent.com/kinvolk/headlamp/main/docs/headlamp_light.svg
+    keywords:
+    - kubernetes
+    - plugins
+    - kinvolk
+    - headlamp
+    maintainers:
+    - name: kinvolk
+      url: https://kinvolk.io/
+    name: headlamp
+    sources:
+    - https://github.com/kinvolk/headlamp
+    - https://kinvolk.io/
+    type: application
+    urls:
+    - https://github.com/kinvolk/headlamp/releases/download/headlamp-helm-0.3.0/headlamp-0.3.0.tgz
+    version: 0.3.0
+  - apiVersion: v2
+    appVersion: 0.7.0
+    created: "2022-02-21T10:25:59.984747561Z"
+    description: Headlamp is an easy-to-use and extensible Kubernetes web UI.
+    digest: 7a74fae8c3ae64e9f41539ee0ec9a6a13db3af9e253f5cdc7957de0dd98cac77
+    home: https://github.com/kinvolk/headlamp/tree/main/deploy/helm
+    icon: https://raw.githubusercontent.com/kinvolk/headlamp/main/docs/headlamp_light.svg
+    keywords:
+    - kubernetes
+    - plugins
+    - kinvolk
+    - headlamp
+    maintainers:
+    - name: kinvolk
+      url: https://kinvolk.io/
+    name: headlamp
+    sources:
+    - https://github.com/kinvolk/headlamp
+    - https://kinvolk.io/
+    type: application
+    urls:
+    - https://github.com/kinvolk/headlamp/releases/download/headlamp-helm-0.2.0/headlamp-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 0.6.0
+    created: "2021-12-23T23:05:30.934681364Z"
+    description: Headlamp is an easy-to-use and extensible Kubernetes web UI.
+    digest: 8e9f67fd296d4b0229446762f2727b505a367b3bd329bf8a011000cb2ced6f68
+    home: https://github.com/kinvolk/headlamp/tree/main/deploy/helm
+    icon: https://raw.githubusercontent.com/kinvolk/headlamp/main/docs/headlamp_light.svg
+    keywords:
+    - kubernetes
+    - plugins
+    - kinvolk
+    - headlamp
+    maintainers:
+    - name: kinvolk
+      url: https://kinvolk.io/
+    name: headlamp
+    sources:
+    - https://github.com/kinvolk/headlamp
+    - https://kinvolk.io/
+    type: application
+    urls:
+    - https://github.com/kinvolk/headlamp/releases/download/headlamp-helm-0.1.5/headlamp-0.1.5.tgz
+    version: 0.1.5
+  - apiVersion: v2
+    appVersion: 0.5.3
+    created: "2021-11-17T18:40:05.559839539Z"
+    description: Headlamp is an easy-to-use and extensible Kubernetes web UI.
+    digest: 6d1e181bffce60827b06d522febc4ebd36ddcd419b63579edec5fba7103d0369
+    home: https://github.com/kinvolk/headlamp/tree/main/deploy/helm
+    icon: https://raw.githubusercontent.com/kinvolk/headlamp/main/docs/headlamp_light.svg
+    keywords:
+    - kubernetes
+    - plugins
+    - kinvolk
+    - headlamp
+    maintainers:
+    - name: kinvolk
+      url: https://kinvolk.io/
+    name: headlamp
+    sources:
+    - https://github.com/kinvolk/headlamp
+    - https://kinvolk.io/
+    type: application
+    urls:
+    - https://github.com/kinvolk/headlamp/releases/download/headlamp-helm-0.1.4/headlamp-0.1.4.tgz
+    version: 0.1.4
+  - apiVersion: v2
+    appVersion: 0.5.2
+    created: "2021-10-22T10:20:29.973296362Z"
+    description: Headlamp is an easy-to-use and extensible Kubernetes web UI.
+    digest: e62949e3e12a587b4cb12ee4232176ad6bfdf5b804aac33c6721d39d815f23ec
+    home: https://github.com/kinvolk/headlamp/tree/main/deploy/helm
+    icon: https://raw.githubusercontent.com/kinvolk/headlamp/main/docs/headlamp_light.svg
+    keywords:
+    - kubernetes
+    - plugins
+    - kinvolk
+    - headlamp
+    maintainers:
+    - name: kinvolk
+      url: https://kinvolk.io/
+    name: headlamp
+    sources:
+    - https://github.com/kinvolk/headlamp
+    - https://kinvolk.io/
+    type: application
+    urls:
+    - https://github.com/kinvolk/headlamp/releases/download/headlamp-helm-0.1.3/headlamp-0.1.3.tgz
+    version: 0.1.3
+  - apiVersion: v2
+    appVersion: 0.5.1
+    created: "2021-08-26T09:45:30.299341671Z"
+    description: Headlamp is an easy-to-use and extensible Kubernetes web UI.
+    digest: 2ede3605315fb23279593870e4796fcc01cb4a2633b10f6fc57f626dd77756d0
+    home: https://github.com/kinvolk/headlamp/tree/main/deploy/helm
+    icon: https://raw.githubusercontent.com/kinvolk/headlamp/main/docs/headlamp_light.svg
+    keywords:
+    - kubernetes
+    - plugins
+    - kinvolk
+    - headlamp
+    maintainers:
+    - name: kinvolk
+      url: https://kinvolk.io/
+    name: headlamp
+    sources:
+    - https://github.com/kinvolk/headlamp
+    - https://kinvolk.io/
+    type: application
+    urls:
+    - https://github.com/kinvolk/headlamp/releases/download/headlamp-helm-0.1.2/headlamp-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: 0.4.0
+    created: "2021-07-26T15:38:37.515995377Z"
+    description: Headlamp is an easy-to-use and extensible Kubernetes web UI.
+    digest: a5e04e6231ce1e451e8276b1c4bcb2404bbc4e4d21af4d00078bbf34afdc4c93
+    home: https://github.com/kinvolk/headlamp/tree/main/deploy/helm
+    icon: https://raw.githubusercontent.com/kinvolk/headlamp/main/docs/headlamp_light.svg
+    keywords:
+    - kubernetes
+    - plugins
+    - kinvolk
+    - headlamp
+    maintainers:
+    - name: kinvolk
+      url: https://kinvolk.io/
+    name: headlamp
+    sources:
+    - https://github.com/kinvolk/headlamp
+    - https://kinvolk.io/
+    type: application
+    urls:
+    - https://github.com/kinvolk/headlamp/releases/download/headlamp-helm-0.1.1/headlamp-0.1.1.tgz
+    version: 0.1.1
+generated: "2026-05-07T13:06:56.231878829Z"
